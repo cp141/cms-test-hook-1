@@ -1,0 +1,8 @@
+{
+  "global" : false,
+  "icon" : "/cms-test-hook/images/module-icons/social.svg",
+  "host_template_types" : [ "PAGE", "BLOG_POST", "BLOG_LISTING" ],
+  "module_id" : 93763515665,
+  "label" : "Social follow",
+  "is_available_for_new_content" : true
+}
